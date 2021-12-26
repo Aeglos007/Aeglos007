@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Yusuf Ergül</h1>
-<h3 align="center">I am a 3rd year student at Ege University. I work in terms of cyber security. Previously, I worked in the direction of android, data comprehensive and programming languages. I have been working in the cyber security field for a long time.
+<h3 align="center">I am a 3rd year student at Ege University. I work on cyber security. Previously, I worked on android application development, data structures and programming languages. I have been working in the cyber security field for a long time.
 </h3>
 
 - Hi, I'm currently working on **Integreted Linkedn-Moodle Database**
