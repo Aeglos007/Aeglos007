@@ -4,7 +4,7 @@
 
 - Hi, I'm currently working on **Integreted Linkedn-Moodle Database**
 
-- 🌱Im good at **Sql injection, CSRF vulnerabilities, SSRF, XXE, directory traversal, Dom based vulnerabilities and Insecure Serialization**
+- 🌱Im good at **Sql injection, CSRF vulnerabilities, SSRF, XXE, Directory Traversal Vulnerabilities, Dom based Vulnerabilities and Insecure Serialization**
 
 - 💬 I’m currently learning **Web cache poisoning,OAuth authentication,Information disclosure**
 
