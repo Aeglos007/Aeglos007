@@ -2,7 +2,7 @@
 <h3 align="center">I am a 3rd year student at Ege University. I work in terms of cyber security. Previously, I worked in the direction of android, data comprehensive and programming languages. I have been working in the cyber security field for a long time.
 </h3>
 
-- Hi, I'm working on **Integreted Linkedn-Moodle Database**
+- Hi, I'm currently working on **Integreted Linkedn-Moodle Database**
 
 - 🌱Im good at **Sql injection, CSRF vulnerabilities, SSRF, XXE, directory traversal, Dom based vulnerabilities and Insecure Serialization**
 
