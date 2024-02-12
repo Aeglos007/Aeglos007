@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Yusuf Ergül</h1>
-<h3 align="center">I am a 4rd year student at Ege University. I work on mobile app development. Previously, I worked on android application development, cyber security and programming languages. I have been working in the mobile app development field for amoung of time.
+<h3 align="center">I am a 4rd year student at Ege University. I work on IOS app development. Previously, I worked on android application development, cyber security and programming languages. I have been working in the mobile app development field for amoung of time.
 </h3>
 
 - Hi, I'm currently working on **To Do List App for IOS**
