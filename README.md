@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Yusuf Ergül</h1>
-<h3 align="center">I am a 3rd year student at Ege University. I work on cyber security. Previously, I worked on android application development, data structures and programming languages. I have been working in the cyber security field for a long time.
+<h3 align="center">I am a 4rd year student at Ege University. I work on mobile app development. Previously, I worked on android application development, cyber security and programming languages. I have been working in the mobile app development field for amoung of time.
 </h3>
 
-- Hi, I'm currently working on **Integreted Linkedn-Moodle Database**
+- Hi, I'm currently working on **To Do List App for IOS**
 
-- 🌱Im good at **Sql injection,XSS, CSRF vulnerabilities, SSRF, XXE, Clickjacking, Directory Traversal Vulnerabilities, Dom based Vulnerabilities and Insecure Serialization**
+- 🌱Im good at **Firebase entegration, MVVM architecture,delegate patterns**
 
-- 💬 I’m currently learning **Web cache poisoning,OAuth authentication,Information disclosure**
+- 💬 I’m currently learning **Swift UI**
 
 - 📫 How to reach me **a.v.a.l.o.n@outlook.com**
 
